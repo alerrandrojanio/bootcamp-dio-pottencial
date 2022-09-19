@@ -1,0 +1,15 @@
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\bin\Debug\net6.0\aulas-cs.exe
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\bin\Debug\net6.0\aulas-cs.deps.json
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\bin\Debug\net6.0\aulas-cs.runtimeconfig.json
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\bin\Debug\net6.0\aulas-cs.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\bin\Debug\net6.0\aulas-cs.pdb
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\aulas-cs.csproj.AssemblyReference.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\aulas-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\aulas-cs.AssemblyInfoInputs.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\aulas-cs.AssemblyInfo.cs
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\aulas-cs.csproj.CoreCompileInputs.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\aulas-cs.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\refint\aulas-cs.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\aulas-cs.pdb
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\aulas-cs.genruntimeconfig.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\aulas-cs\obj\Debug\net6.0\ref\aulas-cs.dll
