@@ -1,0 +1,15 @@
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
