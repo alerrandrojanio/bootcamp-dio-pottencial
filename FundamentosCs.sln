@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCs", "FundamentosCs\FundamentosCs.csproj", "{459646A0-9023-49CF-BFB9-0246A16C2E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosCs.Common", "FundamentosCs.Common\FundamentosCs.Common.csproj", "{D941A0E1-DF55-45DC-89AF-73F68436BA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459646A0-9023-49CF-BFB9-0246A16C2E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459646A0-9023-49CF-BFB9-0246A16C2E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459646A0-9023-49CF-BFB9-0246A16C2E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459646A0-9023-49CF-BFB9-0246A16C2E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D941A0E1-DF55-45DC-89AF-73F68436BA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D941A0E1-DF55-45DC-89AF-73F68436BA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D941A0E1-DF55-45DC-89AF-73F68436BA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D941A0E1-DF55-45DC-89AF-73F68436BA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

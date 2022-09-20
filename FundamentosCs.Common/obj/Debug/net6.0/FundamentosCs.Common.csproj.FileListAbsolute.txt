@@ -1,0 +1,12 @@
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\bin\Debug\net6.0\FundamentosCs.Common.deps.json
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\bin\Debug\net6.0\FundamentosCs.Common.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\bin\Debug\net6.0\FundamentosCs.Common.pdb
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\FundamentosCs.Common.csproj.AssemblyReference.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\FundamentosCs.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\FundamentosCs.Common.AssemblyInfoInputs.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\FundamentosCs.Common.AssemblyInfo.cs
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\FundamentosCs.Common.csproj.CoreCompileInputs.cache
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\FundamentosCs.Common.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\refint\FundamentosCs.Common.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\FundamentosCs.Common.pdb
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs.Common\obj\Debug\net6.0\ref\FundamentosCs.Common.dll
