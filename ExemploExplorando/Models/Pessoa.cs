@@ -5,7 +5,7 @@ namespace ExemploExplorando.Models
             
         }
         public Pessoa(string nome, string sobrenome) {
-            Nome = nome;
+            gitNome = nome;
             Sobrenome = sobrenome;
         }
 

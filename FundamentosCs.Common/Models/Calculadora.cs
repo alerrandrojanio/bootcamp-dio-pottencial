@@ -4,6 +4,10 @@ namespace FundamentosCs.Common.Models
 {
     public class Calculadora {
 
+        public Calculadora() {
+            
+        }
+
         /// <summary>
         /// Soma dois números
         /// </summary>

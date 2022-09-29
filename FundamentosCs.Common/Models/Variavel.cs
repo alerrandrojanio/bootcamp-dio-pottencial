@@ -41,6 +41,10 @@ namespace FundamentosCs.Common.Models
             string StringInteiro = Inteiro.ToString();  
 
         }
+
+        public bool EPar(int n) {
+            return n % 2 == 0 ? true : false;
+        }
         
     }
 }

@@ -16,3 +16,4 @@ C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs\obj\Debug\ne
 C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs\obj\Debug\net6.0\FundamentosCs.pdb
 C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs\obj\Debug\net6.0\FundamentosCs.genruntimeconfig.cache
 C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs\obj\Debug\net6.0\ref\FundamentosCs.dll
+C:\Users\ale\Documents\GitHub\bootcamp-dio-pottential\FundamentosCs\bin\Debug\net6.0\Newtonsoft.Json.dll
