@@ -1,11 +1,36 @@
-﻿using FundamentosCs.Common.Models;
+﻿using System;
 
-new Venda().Serializar();
-new Venda().LerJson();
+class Desafio {
+  public static void Main() {
+    int quantidadeEntradas = 3;
+      
+    while (quantidadeEntradas > 0) {
+      var numeroQuantidade = Int32.Parse(Console.ReadLine());
+        
+      if (numeroQuantidade >= 1 && numeroQuantidade <= 500) {
+        string[] tartarugas = Console.ReadLine().Split(" ");
+        var maiorVelocidade = Int32.Parse(tartarugas[0]);
+          
+// TODO: Crie as outras condições necessárias para a resolução do desafio:
+        for (                                           ) {
+          var tartaruga = Int32.Parse(tartarugas[i]);
+            
+          if (                                          ) {
+            maiorVelocidade = tartaruga;
+          }
+        }
 
-
-
-
-
-
-
+        if(                            < 10) {
+          Console.WriteLine(1);
+        } else if (                            >= 10 &&                            < 20) {
+          Console.WriteLine(2);
+        } else if (                                        >= 20) {
+          Console.WriteLine(3);
+        }
+        quantidadeEntradas--;
+      } else {
+        Console.WriteLine("Insira um número entre 1 e 500");
+      }
+    }
+  }
+}

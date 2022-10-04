@@ -1,8 +1,8 @@
 namespace FundamentosCs.Common.Models
 {
-    public class Desafio2 {
+    public class DesafioBasico2 {
 
-        public Desafio2() {
+        public DesafioBasico2() {
             
         }
 
