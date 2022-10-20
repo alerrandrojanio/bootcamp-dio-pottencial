@@ -1,2 +1,2 @@
-# Repositório do desafio do projeto sobre Git/Github 
-Desafio de projeto sobre Git/Github
+# Repositório de todo o Bootcamp Pottencial .NET 
+
